@@ -1,0 +1,122 @@
+﻿  NekoCFG.cpp
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_resource.h(111): warning C4005: 'IDC_HELP': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10337): note: see previous definition of 'IDC_HELP'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(162): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(165): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(169): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(171): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(172): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(173): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(186): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(151): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(549): note: see declaration of 'stricmp'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(276): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(281): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(319): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(326): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(365): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(365): warning C4302: 'type cast': truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(371): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(371): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(393): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(431): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(434): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(435): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(490): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(511): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(514): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(518): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(519): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(520): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(521): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(522): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(532): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(535): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(536): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg.cpp(594): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  NekoCFG_Tabs.cpp
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_resource.h(111): warning C4005: 'IDC_HELP': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10337): note: see previous definition of 'IDC_HELP'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(159): warning C4244: '=': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(175): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LRESULT'
+  c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(175): note: consider using '%lld' in the format string
+  c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(175): note: consider using '%Id' in the format string
+  c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(175): note: consider using '%I64d' in the format string
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(219): warning C4311: 'type cast': pointer truncation from 'HICON' to 'UINT'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(219): warning C4302: 'type cast': truncation from 'HICON' to 'UINT'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(236): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(236): warning C4302: 'type cast': truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(242): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(242): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(263): warning C4244: '=': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(264): warning C4244: '=': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(280): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(280): warning C4302: 'type cast': truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(286): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(286): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(324): warning C4244: '=': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(343): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(364): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(371): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(378): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(380): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(392): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(396): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(397): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(399): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(420): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(442): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(442): warning C4302: 'type cast': truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(448): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(448): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(472): warning C4244: '=': conversion from 'LRESULT' to 'DWORD', possible loss of data
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(507): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(507): warning C4302: 'type cast': truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(513): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(513): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(574): warning C4311: 'type cast': pointer truncation from 'HICON' to 'UINT'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(574): warning C4302: 'type cast': truncation from 'HICON' to 'UINT'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(594): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(594): warning C4302: 'type cast': truncation from 'LPSTR' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(600): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekocfg\nekocfg_tabs.cpp(600): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+  NekoSettings.cpp
+c:\users\penchev\downloads\neko98\neko98-master\neko98\nekosettings.cpp(59): warning C4267: 'initializing': conversion from 'size_t' to 'ULONG', possible loss of data
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\Penchev\Downloads\Neko98\neko98-master\Neko98\NekoCFG\x64\Release\NekoCFG.exe) does not match the Linker's OutputFile property value (C:\Users\Penchev\Downloads\Neko98\neko98-master\Neko98\NekoCFG\Release\NekoCFG.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  NekoCFG.vcxproj -> C:\Users\Penchev\Downloads\Neko98\neko98-master\Neko98\NekoCFG\x64\Release\NekoCFG.exe
